@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+.heading
+{
+    background-color: #CCFFFF; 
+    font-size:60px; 
+    border-style:groove
+}
+.options
+{
+    height: 80px; 
+    font-size:x-large; 
+    text-decoration:none; 
+    border-bottom-style: groove
+}
