@@ -13,4 +13,5 @@ A freelancing projects website that provides a platform for employers to post ad
 1. Netbeans 8.2
 2. SQL Yog
 
-*I will update the communication module soon.*
+*I've not worked on front-end(without js) much in this project.
+I will update the communication module soon.*
